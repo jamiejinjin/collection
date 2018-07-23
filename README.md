@@ -3,5 +3,5 @@
 Here comes my following [this course](https://github.com/raynardj/python4ml)
 ### Study Plan：
 * [x] finish 3.1.1
-* [ ] write another mlp model independently
+* [x] write another mlp model independently
 * [ ] know more about pytorch 
