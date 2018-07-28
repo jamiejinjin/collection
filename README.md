@@ -4,4 +4,6 @@ Here comes my following [this course](https://github.com/raynardj/python4ml)
 ### Study Plan：
 * [x] finish 3.1.1
 * [x] write another mlp model independently
-* [ ] know more about pytorch 
+* [x] learn markdown
+* [ ] Python,find more python exercise!anything!
+* [ ] django!On 8.3 next Sataurday, u should know deeper
