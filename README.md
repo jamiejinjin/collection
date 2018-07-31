@@ -6,4 +6,4 @@ Here comes my following [this course](https://github.com/raynardj/python4ml)
 * [x] write another mlp model independently
 * [x] learn markdown
 * [ ] Python,find more python exercise!anything!
-* [ ] django!On 8.3 next Sataurday, u should know deeper
+* [ ] django!On 8.3 next Sataurday, u should draft your website
